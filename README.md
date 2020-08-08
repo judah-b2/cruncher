@@ -9,5 +9,5 @@ sudo apt-get update
 sudo apt install git
 # By Clicktoinstall
 # Thanks for:
-# programing : Srikanth.N
+# programer : Srikanth.N
 # THANKS FOR INSTALLING
