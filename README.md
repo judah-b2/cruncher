@@ -11,6 +11,8 @@ sudo apt-get update
 
 sudo apt install git
 
+sudo apt install python3
+
 # By Clicktoinstall
 # Thanks for:
 # programer : Srikanth.N
