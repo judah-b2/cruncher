@@ -9,7 +9,7 @@ pkg install python
 # commands for linux
 sudo apt-get update
 
-sudo apt install git\n
+sudo apt install git
 
 # By Clicktoinstall
 # Thanks for:
