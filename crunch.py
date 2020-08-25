@@ -1,10 +1,13 @@
-#!usr/bin/evn python3
-import subprocess
-linux = input("what's your os , if you are using linux [sudo] and termux hit [enter] >>>")
-digit = input("digits >>> ")
-values = input("input >>> ")
-cd = input("directory >>> ")
-subprocess.call(linux + " crunch " + digit + values + cd, shell=True)
-subprocess.call(linux + " cd " + cd, shell=True)
-a = "your text file has been saved here"
-print(a)
+import subprocess as sp
+b = False
+
+a = input("t or f Are you using linux or termux >>>")
+if (a == "t" or a == "T"):
+	b = True
+if (a == "f" or a == "F"):
+	b = False
+	
+if b == True: 
+	sp.run('sudo apt-get install -y crunch',shell=True)
+elif b == False: 
+	print("It was not completed") 
