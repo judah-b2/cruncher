@@ -15,5 +15,5 @@ don't install this tools for any illegal purpose we are not responsible for our 
 
 # By Clicktoinstall
 # Thanks for:
-# programer : Srikanth.N
+# programer : Judah Beethoven.G
 # THANKS FOR INSTALLING
